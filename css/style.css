@@ -1,0 +1,75 @@
+body {
+	color: white;
+	font-size: 0.8em;
+	background: hsl(0, 0%, 81%);
+}
+
+main {
+	margin: 40px auto 0px;
+	font-size: 0.9em;
+}
+
+.row {
+	margin-bottom: 20px;
+}
+
+/* Geral */
+#caixa1 {
+	background: hsl(263, 55%, 52%) url(../images/bg-pattern-quotation.svg) no-repeat right top;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+
+#caixa2 {
+	background: hsl(217, 19%, 35%);
+	margin-top: 10px;
+}
+
+#caixa3 {
+	background: white;
+	color: black;
+	margin-top: 10px;
+}
+
+#caixa4 {
+	background: hsl(219, 29%, 14%);
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+#caixa5 {
+	background: white;
+	height: 550px;
+	color: black;
+	margin-top: 10px;
+}
+
+div {
+	padding: 10px auto;
+	border-radius: 7px;
+}
+
+img {
+	width: 50px;
+	border: 2px solid hsl(210, 46%, 95%);
+	border-radius: 200px;
+}
+
+p.h6 {
+	opacity: 60%;
+}
+
+.col {
+	position: relative;
+	left: 20px;
+}
+
+p.paragrafo {
+	opacity: 70%;
+}
+
+div.pessoa {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
